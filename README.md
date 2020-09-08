@@ -1,2 +1,2 @@
 # mattseibel.com
-source code for MattSeibel.com homepage
+source code for MattSeibel.com
